@@ -1,6 +1,6 @@
-#     Th3Boss.com
+#     sahih.albukharii.com
 
 
-##  Open WebSite For Plugins ##
+##  موقع صحيح البخاري الرسمي ##
 
-Files For Source Th3Boss v3.0
+قال ﷺ « من دل على خير؛ فله مثل أجر فاعله »
